@@ -1,0 +1,11 @@
+Informe de Logs
+================
+
+Conteo de niveles de log:
+ERROR: 3
+INFO: 2
+WARNING: 2
+
+Errores más comunes:
+Fallo al conectar a la base de datos - Ocurrencias: 2
+Error en la carga de archivos - Ocurrencias: 1

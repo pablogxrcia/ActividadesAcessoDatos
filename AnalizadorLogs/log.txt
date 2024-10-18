@@ -1,0 +1,7 @@
+2024-10-18 12:00:00 INFO Inicio del sistema
+2024-10-18 12:05:00 ERROR Fallo al conectar a la base de datos
+2024-10-18 12:10:00 WARNING Memoria baja
+2024-10-18 12:15:00 INFO Usuario se ha autenticado
+2024-10-18 12:20:00 ERROR Fallo al conectar a la base de datos
+2024-10-18 12:25:00 WARNING Espacio en disco limitado
+2024-10-18 12:30:00 ERROR Error en la carga de archivos
